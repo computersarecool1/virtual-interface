@@ -1,0 +1,26 @@
+[package]
+name = "desadddd"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rdev = { version = "0.5.3", features = ["unstable_grab"] }
+enigo = { version = "0.6.1", features = ["serde"] }
+rayon = "1.11.0"
+rand = "0.10.1"
+bevy = { git = "https://github.com/bevyengine/bevy.git", branch = "main"}
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+ron = "0.12"
+vtracer = "0.6.5"
+image = "0.25.10"
+crossbeam-channel = "0.5.15"
+[profile.dev]
+opt-level = 1
+
+# Enable a large amount of optimization in the dev profile for dependencies.
+[profile.dev.package."*"]
+opt-level = 3
+
+[profile.release]
+debug = true
