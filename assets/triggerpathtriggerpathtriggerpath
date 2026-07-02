@@ -1,0 +1,1433 @@
+(
+  resources: {},
+  entities: {
+    4294967080: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-879.0, 73.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("205"),
+        ),
+      },
+    ),
+    4294967081: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-804.0, 73.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(Backspace,Click)]"),
+        ),
+      },
+    ),
+    4294967082: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-729.0, 73.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(Backspace.unwrap();"),
+        ),
+      },
+    ),
+    4294967083: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-654.0, 73.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("[Text(\"#\")]"),
+        ),
+      },
+    ),
+    4294967084: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-579.0, 73.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(Unicode(\'/\'),Click)]"),
+        ),
+      },
+    ),
+    4294967085: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-504.0, 73.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Text(\"*\")]"),
+        ),
+      },
+    ),
+    4294967086: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-429.0, 73.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Text(\"-\")]"),
+        ),
+      },
+    ),
+    4294967087: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-879.0, -1.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("198"),
+        ),
+      },
+    ),
+    4294967088: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-804.0, -1.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(Unicode(\'=\'),Click)]"),
+        ),
+      },
+    ),
+    4294967089: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-729.0, -1.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("[Text(\"%\")]"),
+        ),
+      },
+    ),
+    4294967090: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-429.0, -1.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Text(\"+\")]"),
+        ),
+      },
+    ),
+    4294967091: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-879.0, -76.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(Tab,Click)]"),
+        ),
+      },
+    ),
+    4294967092: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-804.0, -76.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("[Text(\"?\")]"),
+        ),
+      },
+    ),
+    4294967093: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-729.0, -76.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("189"),
+        ),
+      },
+    ),
+    4294967094: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-429.0, -76.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(Return,Click),Key(Tab,Click)]"),
+        ),
+      },
+    ),
+    4294967095: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-879.0, -151.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("[Text(\"(\")]"),
+        ),
+      },
+    ),
+    4294967096: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-804.0, -151.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("[Text(\":\")]"),
+        ),
+      },
+    ),
+    4294967097: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-729.0, -151.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("[Text(\";\")]"),
+        ),
+      },
+    ),
+    4294967098: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-429.0, -151.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(Return,Click)]"),
+        ),
+      },
+    ),
+    4294967099: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-879.0, -226.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("[Text(\")\")]"),
+        ),
+      },
+    ),
+    4294967100: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-804.0, -226.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("[Text(\"!\")]"),
+        ),
+      },
+    ),
+    4294967101: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-729.0, -226.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("[Text(\",\")]"),
+        ),
+      },
+    ),
+    4294967102: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-654.0, -226.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("174"),
+        ),
+      },
+    ),
+    4294967103: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-579.0, -226.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(Unicode(\'0\'),Click)]"),
+        ),
+      },
+    ),
+    4294967104: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-504.0, -226.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(Unicode(\'.\'),Click)]"),
+        ),
+      },
+    ),
+    4294967105: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-429.0, -226.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(Return,Click)]"),
+        ),
+      },
+    ),
+    4294967106: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-430.0, -291.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (10.5, -1.3, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(Space,Click)]"),
+        ),
+      },
+    ),
+    4294967107: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-555.0, 270.0, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (-1.3, 1.1, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(Control,Press),Key(C,Click),Key(Control,Release)]"),
+        ),
+      },
+    ),
+    4294967108: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-490.0, 270.0, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (-1.3, 1.1, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(Control,Press),Key(V,Click),Key(Control,Release)]"),
+        ),
+      },
+    ),
+    4294967156: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-73.0, -205.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("120"),
+        ),
+      },
+    ),
+    4294967157: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-143.0, -205.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("[Text(\"$\")]"),
+        ),
+      },
+    ),
+    4294967158: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-215.0, -205.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("118"),
+        ),
+      },
+    ),
+    4294967159: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-285.0, -205.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("117"),
+        ),
+      },
+    ),
+    4294967160: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-357.0, -206.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("[Text(\"_\")]"),
+        ),
+      },
+    ),
+    4294967169: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-73.0, -135.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(Unicode(\'\\\\\'),Click)]"),
+        ),
+      },
+    ),
+    4294967170: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-143.0, -135.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("[Text(\"|\")]"),
+        ),
+      },
+    ),
+    4294967171: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-215.0, -135.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("105"),
+        ),
+      },
+    ),
+    4294967172: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-285.0, -135.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("104"),
+        ),
+      },
+    ),
+    4294967173: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-357.0, -135.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("103"),
+        ),
+      },
+    ),
+    4294967182: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-73.0, -65.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue(""),
+        ),
+      },
+    ),
+    4294967183: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-143.0, -65.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Text(\"}\")]"),
+        ),
+      },
+    ),
+    4294967184: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-215.0, -65.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Text(\"{\")]"),
+        ),
+      },
+    ),
+    4294967185: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-285.0, -65.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(Unicode(\']\'),Click)]"),
+        ),
+      },
+    ),
+    4294967186: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-357.0, -65.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("90"),
+        ),
+      },
+    ),
+    4294967195: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-73.0, 4.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("81"),
+        ),
+      },
+    ),
+    4294967196: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-143.0, 4.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("80"),
+        ),
+      },
+    ),
+    4294967197: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-215.0, 4.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(RightArrow,Click)]"),
+        ),
+      },
+    ),
+    4294967198: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-285.0, 4.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(DownArrow,Click)]"),
+        ),
+      },
+    ),
+    4294967199: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-357.0, 4.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(LeftArrow,Click)]"),
+        ),
+      },
+    ),
+    4294967208: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-73.0, 74.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("68"),
+        ),
+      },
+    ),
+    4294967209: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-143.0, 74.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("67"),
+        ),
+      },
+    ),
+    4294967210: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-215.0, 74.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("66"),
+        ),
+      },
+    ),
+    4294967211: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-285.0, 74.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(UpArrow,Click)]"),
+        ),
+      },
+    ),
+    4294967212: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-357.0, 74.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.5, -1.5, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("64"),
+        ),
+      },
+    ),
+    4294967213: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-488.0, 144.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.3, -1.3, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("63"),
+        ),
+      },
+    ),
+    4294967214: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-550.0, 144.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.3, -1.3, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("[Text(\"^\")]"),
+        ),
+      },
+    ),
+    4294967215: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-614.0, 144.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.3, -1.3, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("61"),
+        ),
+      },
+    ),
+    4294967216: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-676.0, 144.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.3, -1.3, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("60"),
+        ),
+      },
+    ),
+    4294967217: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-738.0, 144.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.3, -1.3, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("59"),
+        ),
+      },
+    ),
+    4294967218: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-800.0, 144.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.3, -1.3, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("58"),
+        ),
+      },
+    ),
+    4294967219: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-490.0, 206.0, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (-1.3, 1.1, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("57"),
+        ),
+      },
+    ),
+    4294967220: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-550.0, 204.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.3, -1.3, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(Control,Press),Key(X,Click),Key(Control,Release)]"),
+        ),
+      },
+    ),
+    4294967221: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-614.0, 204.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.3, -1.3, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("55"),
+        ),
+      },
+    ),
+    4294967222: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-676.0, 204.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.3, -1.3, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("54"),
+        ),
+      },
+    ),
+    4294967223: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-738.0, 204.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.3, -1.3, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("53"),
+        ),
+      },
+    ),
+    4294967224: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-800.0, 204.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.3, -1.3, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("52"),
+        ),
+      },
+    ),
+    4294967225: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-886.0, 333.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (-1.1, 0.6, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(F13,Click)]"),
+        ),
+      },
+    ),
+    4294967226: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-832.0, 333.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (-1.1, 0.6, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(F14,Click)]"),
+        ),
+      },
+    ),
+    4294967227: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-780.0, 333.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (-1.1, 0.6, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(F15,Click)]"),
+        ),
+      },
+    ),
+    4294967228: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-726.0, 333.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (-1.1, 0.6, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(F16,Click)]"),
+        ),
+      },
+    ),
+    4294967229: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-670.0, 333.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (-1.1, 0.6, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(F17,Click)]"),
+        ),
+      },
+    ),
+    4294967230: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-616.0, 333.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (-1.1, 0.6, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(F18,Click)]"),
+        ),
+      },
+    ),
+    4294967231: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-564.0, 333.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (-1.1, 0.6, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(F19,Click)]"),
+        ),
+      },
+    ),
+    4294967232: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-510.0, 333.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (-1.1, 0.6, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(F20,Click)]"),
+        ),
+      },
+    ),
+    4294967233: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-456.0, 363.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (-1.1, 0.6, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("43"),
+        ),
+      },
+    ),
+    4294967237: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-886.0, 301.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (-1.1, 0.6, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(F1,Click)]"),
+        ),
+      },
+    ),
+    4294967238: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-832.0, 301.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (-1.1, 0.6, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(F2,Click)]"),
+        ),
+      },
+    ),
+    4294967239: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-780.0, 301.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (-1.1, 0.6, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(F3,Click)]"),
+        ),
+      },
+    ),
+    4294967240: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-726.0, 301.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (-1.1, 0.6, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(F4,Click)]"),
+        ),
+      },
+    ),
+    4294967241: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-670.0, 301.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (-1.1, 0.6, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(F5,Click)]"),
+        ),
+      },
+    ),
+    4294967242: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-616.0, 301.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (-1.1, 0.6, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(F6,Click)]"),
+        ),
+      },
+    ),
+    4294967243: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-564.0, 301.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (-1.1, 0.6, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(F7,Click)]"),
+        ),
+      },
+    ),
+    4294967244: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-510.0, 301.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (-1.1, 0.6, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(F8,Click)]"),
+        ),
+      },
+    ),
+    4294967245: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-886.0, 395.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (-1.1, 0.6, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(Control,Press),Key(S,Click),Key(Control,Release)]"),
+        ),
+      },
+    ),
+    4294967246: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-832.0, 395.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (-1.1, 0.6, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("30"),
+        ),
+      },
+    ),
+    4294967247: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-780.0, 395.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (-1.1, 0.6, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("29"),
+        ),
+      },
+    ),
+    4294967248: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-726.0, 395.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (-1.1, 0.6, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("28"),
+        ),
+      },
+    ),
+    4294967249: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-670.0, 395.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (-1.1, 0.6, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("27"),
+        ),
+      },
+    ),
+    4294967250: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-616.0, 395.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (-1.1, 0.6, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("26"),
+        ),
+      },
+    ),
+    4294967251: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-564.0, 395.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (-1.1, 0.6, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("25"),
+        ),
+      },
+    ),
+    4294967252: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-510.0, 395.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (-1.1, 0.6, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("24"),
+        ),
+      },
+    ),
+    4294967253: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-886.0, 363.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (-1.1, 0.6, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("23"),
+        ),
+      },
+    ),
+    4294967254: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-832.0, 363.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (-1.1, 0.6, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("22"),
+        ),
+      },
+    ),
+    4294967255: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-780.0, 363.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (-1.1, 0.6, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("21"),
+        ),
+      },
+    ),
+    4294967256: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-726.0, 363.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (-1.1, 0.6, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("20"),
+        ),
+      },
+    ),
+    4294967257: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-670.0, 363.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (-1.1, 0.6, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("19"),
+        ),
+      },
+    ),
+    4294967258: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-616.0, 363.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (-1.1, 0.6, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("18"),
+        ),
+      },
+    ),
+    4294967259: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-564.0, 363.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (-1.1, 0.6, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("17"),
+        ),
+      },
+    ),
+    4294967260: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-510.0, 363.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (-1.1, 0.6, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("16"),
+        ),
+      },
+    ),
+    4294967261: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-456.0, 333.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (-1.1, 0.6, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(F21,Click)]"),
+        ),
+      },
+    ),
+    4294967265: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-456.0, 301.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (-1.1, 0.6, 2.0),
+        ),
+        "desadddd::Code": (
+          s: MyKey("[Key(F9,Click)]"),
+        ),
+      },
+    ),
+    4294967269: (
+      components: { "desadddd::NeedsTextChange": (),
+        "bevy_ecs::name::Name": "not hi",
+        "bevy_sprite::sprite::Anchor": ((0.5, 0.5)),
+        "bevy_transform::components::transform::Transform": (
+          translation: (-405.0, 364.5, 1.0),
+          rotation: (0.0, 0.0, 0.0, 1.0),
+          scale: (1.1, -0.6, 2.0),
+        ),
+        "desadddd::Code": (
+          s: StringValue("5"),
+        ),
+      },
+    ),
+  },
+)
