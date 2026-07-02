@@ -36,7 +36,7 @@ let mut nnd = match entit.1.s.clone() {
     Token::Text( string) => string,
     Token::Key( Key::Unicode(string),Click ) => {&string.to_string()}
 
-    _ => { commands.entity(entit.0).insert((Sprite::from_image(asset_server.load(format!("{}ractal.png",a))))); continue;},
+    _ => { commands.entity(entit.0).insert((Sprite::from_image(asset_server.load(format!("e/{}ractal.png",a))))); continue;},
         };if entit.2 {
         let regular_font_handle: Handle<Font> = Default::default();
 commands.spawn((        Transform::from_translation(Vec3 { x: 0., y: 0., z: 32. }),
