@@ -60,7 +60,7 @@ pub fn fractal() {
 
            i2x.remove(0);          
             if (xx2 as i32) as u32 >= imgy-2 || (xx2 as i32) as u32 <=2 {break  'a;;}; if (yy2.clone() as i32) as u32 >=  imgy-2 || (yy2.clone() as i32) as u32 <=2 {break  'a;}; 
-             if  150  == ii  {imgbuf.save(format!("assets/{}ractal.png",a)).unwrap();};
+             if  150  == ii  {imgbuf.save(format!("e/{}ractal.png",a)).unwrap();};
             if  (1*2+1)* (1*2+1)-1  == iiiiii  {for a in (0..17).step_by(2)  {i2y.push((yy2.clone() as i32+uuu_y[0+a]) as u32);i2x.push((xx2 as i32+uuu_y[1+a]) as u32);}; imgbuf.put_pixel((xx2 as i32) as u32,( yy2.clone() as i32 ) as u32, Rgba([1 as u8, 111 as u8 , 1,255 ]));
            
     //println!("Hello, world!{}",ii);
