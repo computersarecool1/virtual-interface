@@ -28,6 +28,7 @@ use std::{sync::mpsc::{self,Sender, channel}, thread};
 use rdev::{Event, EventType, listen};
 
 fn make_visible(mut reader: MessageReader<StreamMessage>, mut en: Query<(Entity)>,mouse: Res<ButtonInput<MouseButton>>,mut commands: Commands) {      for ( message) in reader.read(){
+            println!("Coulsend event {:?}", message.0.clone().event_type);
 let mut nnd = match message.0.clone().event_type {
     EventType::ButtonPress(rdev::Button::Right) => {        for mut en in &mut en {
 

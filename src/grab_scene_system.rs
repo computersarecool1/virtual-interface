@@ -121,7 +121,7 @@ let mut nd= (nnnn.scalex[t],nnnn.scaley[t],nnnn.x[t],nnnn.y[t],nnnn.code[t].clon
                 if (( mmmm.0 as f32/*lx  as f32*/)- windowx / 2.0) <= nd.2 as f32 {
                     if ((windowy - (mmmm.1 as f32/*ly as f32*/)) - windowy / 2.0) >= nd.3 +(nd.1 *  (-50.0) ) as f32 && ((windowy - (mmmm.1 as f32/*ly as f32*/)) - windowy / 2.0) <= nd.3  as f32||((windowy - (mmmm.1 as f32/*ly as f32*/)) - windowy / 2.0) <= nd.3 +(nd.1 *  (-50.0) ) as f32 && ((windowy - (mmmm.1 as f32/*ly as f32*/)) - windowy / 2.0) >= nd.3  as f32{
                       
-                         if *mmmo== false {sender.send(event.clone()); 
+                         if *mmmo== false {sender.send(event.clone()); println!("nd");
 thread::spawn( move || {let mut enigo = Enigo::new(&Settings::default()).unwrap();
 let mut nnd = match nd.4.clone() {
     EnumCode::StringValue(string) => string,
@@ -158,12 +158,12 @@ let mut nnd = match nd.4.clone() {
   for t in 0..nnnn.scalex.len() {
 let mut nd= (nnnn.scalex[t],nnnn.scaley[t],nnnn.x[t],nnnn.y[t],nnnn.code[t].clone());
 
-             if (( mmmm.0 as f32/*lx  as f32*/)- windowx / 2.0) >= nd.2 +(nd.0 * (-50.0))as f32 {
+                  if (( mmmm.0 as f32/*lx  as f32*/)- windowx / 2.0) >= nd.2 +(nd.0 * (-50.0))as f32 {
 
-                    if ((windowy - (mmmm.1 as f32/*ly as f32*/)) - windowy / 2.0) <= nd.3 +(nd.1 *  (-50.0) ) as f32 {
-                                            if ((windowy - (mmmm.1 as f32/*ly as f32*/)) - windowy / 2.0) >= nd.3 +(nd.1 *  (-50.0) ) as f32 && ((windowy - (mmmm.1 as f32/*ly as f32*/)) - windowy / 2.0) <= nd.3  as f32||((windowy - (mmmm.1 as f32/*ly as f32*/)) - windowy / 2.0) <= nd.3 +(nd.1 *  (-50.0) ) as f32 && ((windowy - (mmmm.1 as f32/*ly as f32*/)) - windowy / 2.0) >= nd.3  as f32{
+                if (( mmmm.0 as f32/*lx  as f32*/)- windowx / 2.0) <= nd.2 as f32 {
+                    if ((windowy - (mmmm.1 as f32/*ly as f32*/)) - windowy / 2.0) >= nd.3 +(nd.1 *  (-50.0) ) as f32 && ((windowy - (mmmm.1 as f32/*ly as f32*/)) - windowy / 2.0) <= nd.3  as f32||((windowy - (mmmm.1 as f32/*ly as f32*/)) - windowy / 2.0) <= nd.3 +(nd.1 *  (-50.0) ) as f32 && ((windowy - (mmmm.1 as f32/*ly as f32*/)) - windowy / 2.0) >= nd.3  as f32{
 if *mmmo== false { thread::spawn( move || {let mut enigo = Enigo::new(&Settings::default()).unwrap();  });
-sender.send(event.clone()); }
+sender.send(event.clone());  println!("ndnd");}
                       e=true;*mmmo=true;}
                      else{};
                  
